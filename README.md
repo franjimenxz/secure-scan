@@ -3,7 +3,7 @@
 
 ## Introducción
 
-Bienvenido a **SecureScan**, una herramienta minimalista para escanear vulnerabilidades en las dependencias de tus proyectos. Ya seas desarrollador o un profesional esto te ayudara a encontrar y corregir vulnerabilidades en tus proyectos Python y JavaScript.
+Esta es una herramienta minimalista para escanear vulnerabilidades en las dependencias de tus proyectos. Ya seas desarrollador o un profesional esto te ayudara a encontrar y corregir vulnerabilidades en tus proyectos Python y JavaScript.
 
 Con unos pocos comandos, SecureScan analiza tus archivos `requirements.txt` (para Python) y `package.json` (para Node.js), proporcionándote un informe detallado de las vulnerabilidades encontradas y las soluciones recomendadas.
 
