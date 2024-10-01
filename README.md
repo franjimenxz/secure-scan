@@ -16,7 +16,6 @@ Con unos pocos comandos, SecureScan analiza tus archivos `requirements.txt` (par
 
 ## Requisitos
 
-Para empezar, necesitarás lo siguiente:
 
 1. **Python 3.x**
 2. **Node.js** y **npm** (para el análisis de dependencias de Node.js)
@@ -42,7 +41,7 @@ Para empezar, necesitarás lo siguiente:
 
 ## Uso
 
-Una vez que tengas todo instalado, usar SecureScan es tan sencillo como ejecutar un comando:
+Ejecutar el comando
 
 ```bash
 python main.py
@@ -52,7 +51,6 @@ SecureScan buscará archivos `requirements.txt` y `package.json` en tu directori
 
 ### Ejemplo de Salida
 
-Aquí tienes un ejemplo de lo que verás después de ejecutar SecureScan:
 
 ```plaintext
 Escaneando dependencias de Python en requirements.txt...
@@ -71,7 +69,6 @@ Escaneando dependencias de Node.js en package.json...
 
 ## Estructura del Proyecto
 
-Aquí tienes una visión rápida de la estructura del proyecto:
 
 ```plaintext
 SecureScan/
